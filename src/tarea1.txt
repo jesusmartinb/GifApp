@@ -1,0 +1,12 @@
+
+
+1- Crear - shared.module.ts dentro de app
+
+2- Crear Component sidebar.component.ts con el contenido Sidebar
+
+3- Exportar el sidebar al modulo shared.module.ts
+
+4- Importar el shared.module.ts dentro del app.module.ts
+
+5- <app-sidebar></app-sidebar> en el app.component.html
+
